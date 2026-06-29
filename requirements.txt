@@ -1,0 +1,11 @@
+pandas
+openpyxl
+matplotlib
+seaborn
+scikit-learn
+google-generativeai
+sqlalchemy
+jinja2
+requests
+pymysql
+psycopg2-binary
